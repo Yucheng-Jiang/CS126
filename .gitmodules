@@ -1,3 +1,30 @@
 [submodule "amazing-adventures-Yucheng-Jiang"]
 	path = amazing-adventures-Yucheng-Jiang
 	url = https://github.com/CS126SP20/amazing-adventures-Yucheng-Jiang.git
+[submodule "mineopoly-Yucheng-Jiang"]
+	path = mineopoly-Yucheng-Jiang
+	url = https://github.com/CS126SP20/mineopoly-Yucheng-Jiang.git
+[submodule "final-project-Yucheng-Jiang"]
+	path = final-project-Yucheng-Jiang
+	url = https://github.com/CS126SP20/final-project-Yucheng-Jiang.git
+[submodule "tictactoe-testing-Yucheng-Jiang"]
+	path = tictactoe-testing-Yucheng-Jiang
+	url = https://github.com/CS126SP20/tictactoe-testing-Yucheng-Jiang.git
+[submodule "sudoku-Yucheng-Jiang"]
+	path = sudoku-Yucheng-Jiang
+	url = https://github.com/CS126SP20/sudoku-Yucheng-Jiang.git
+[submodule "crazy-eights-Yucheng-Jiang"]
+	path = crazy-eights-Yucheng-Jiang
+	url = https://github.com/CS126SP20/crazy-eights-Yucheng-Jiang.git
+[submodule "cpptictactoe-Yucheng-Jiang"]
+	path = cpptictactoe-Yucheng-Jiang
+	url = https://github.com/CS126SP20/cpptictactoe-Yucheng-Jiang
+[submodule "naive-bayes-Yucheng-Jiang"]
+	path = naive-bayes-Yucheng-Jiang
+	url = https://github.com/CS126SP20/naive-bayes-Yucheng-Jiang.git
+[submodule "linked-list-Yucheng-Jiang"]
+	path = linked-list-Yucheng-Jiang
+	url = https://github.com/CS126SP20/linked-list-Yucheng-Jiang.git
+[submodule "snake-Yucheng-Jiang"]
+	path = snake-Yucheng-Jiang
+	url = https://github.com/CS126SP20/snake-Yucheng-Jiang.git
